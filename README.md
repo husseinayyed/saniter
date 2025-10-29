@@ -1,4 +1,4 @@
-# saniter
+# saniter ( alpha version )
 
 ## 🚀 Overview
 saniter is a Python-based tool designed to detect and classify potentially malicious input, specifically focusing on Cross-Site Scripting (XSS) attacks. By leveraging machine learning models, saniter provides a robust solution for identifying and mitigating XSS threats in real-time applications.
